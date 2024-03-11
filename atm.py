@@ -1,7 +1,7 @@
 from main import passencript,passcodeencription
 def ATM():
-    userdetails={'charan':'Ejctcp_uck_24','ganesh':'Icpguj_60','bindu':'dkpfw30'}
-    userpin={'charan':18804,'ganesh':4360,'bindu':4330}
+    userdetails={'srinivas':'utkpkxcu_14','ganesh':'Icpguj_60','bindu':'dkpfw30'}
+    userpin={'srinivas':5488,'ganesh':8744,'bindu':8684}
     userammount={'charan':50000,'ganesh':60000,'bindu':80000}
     try:
         username=input("Enter User Name :")
